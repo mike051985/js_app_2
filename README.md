@@ -1,2 +1,2 @@
 # js_app_2
-Blackjack game | JavaScript
+Blackjack game | JavaScript | Unfinished
