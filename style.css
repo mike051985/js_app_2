@@ -8,14 +8,6 @@ body {
     font-weight: bold;
 }
 
-h1 {
-    color: goldenrod;
-}
-
-#message-el {
-    font-style: italic;
-}
-
 .container {
     background-color: #c0c0c034;
     max-width: 600px;
@@ -29,3 +21,27 @@ h1 {
         max-width: 400px;
     }
 }
+
+h1 {
+    color: goldenrod;
+    font-size: 1.5rem;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 50%;
+    text-transform: capitalize;
+    font-size: 1.125rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 1.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
