@@ -11,7 +11,7 @@ let sumEl = document.getElementById("sum-el")
 
 // Add player
 let player = {
-    name: "Per",
+    name: "Mike",
     chips: 145
 }
 
